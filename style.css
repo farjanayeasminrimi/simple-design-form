@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&display=swap');
+body{
+    background-color: #ffff;
+}
+.input_form{
+    width: 400px;
+    margin-top: 7%;
+    margin-left: 300px;
+    float: left;
+}
+.input_form h1{
+    font-family: 'Goblin One', cursive;
+    font-size: 26px;
+    margin-left: 17px;
+}
+.em{
+    color:#c0b0b0;
+    margin-left: 149px;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+input{
+    padding: 0px 75px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #d3d3d3;
+    margin-bottom: 25px;
+}
+.ps{
+    color:#c0b0b0;
+    margin-left: 135px;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+.for{
+    color:#c0b0b0;
+    margin-left: 113px;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+.btn{
+    color: azure;
+    background-color: #d5b07c;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+    padding: 8px 102px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.btn:hover{
+    background-color: #56a2b0;
+    color:#ffffff;
+    transition: .56s;
+    cursor: pointer;
+}
+.btn_2{
+    font-size: 15px;
+    text-transform: capitalize;
+    border: none;
+    border-radius: 40px;
+    margin-left: 5px;
+    padding: 8px 83px;
+}
+.btn_2:hover{
+    background-color: #56a2b0;
+    color:#ffffff;
+    transition: .56s;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:#1369cc;
+}
+.back{
+    margin-top: 19px;
+    margin-right: 200px;
+    float: right;
+    position: relative;
+  width: 300px;
+  height: 89vh;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  background-repeat: no-repeat;
+  background-size: 300px;
+  background-position: right bottom;
+    background-image: url(jpd.png);
+}
+.back h1{
+    font-size: 26px;
+    font-family:  'Goblin One', cursive;
+    margin-left: 30px ;
+    text-transform: uppercase;
+    margin-top: 90px;
+}
+#sp{
+    color:#c0b0b0;
+    word-spacing: 2px;
+    margin-left: 46px;
+    font-size: 14px;
+}
+#sr{
+    color:#c0b0b0;
+    word-spacing: 7.4px;
+    margin-left: 35px;
+    font-size: 14px;
+    
+}
+.btn_3{
+    font-weight: 500;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid rgb(189, 26, 26);
+    background-color: #ffffff;
+    padding: 9px 20px;
+    font-size: 16px;
+    text-transform: capitalize;
+    color:rgba(37, 4, 4, 0.924);
+    margin-left: 140px;
+    margin-top: 70px;
+    border-radius: 35px;
+}
+.btn_3:hover{
+    color:white;
+      background-color: #56a2b0;
+      outline: none;
+      border: none;
+      transition: .56s;
+      cursor: pointer;
+}
